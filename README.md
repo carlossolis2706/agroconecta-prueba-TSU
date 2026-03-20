@@ -302,17 +302,9 @@ Cada módulo incluye una carpeta `IMAGENES/` con capturas de referencia de las p
 
 ---
 
-## 👤 Autor
-
-**Solis** — Estudiante de Ingeniería en Desarrollo de Software
-Proyecto de Estancia Profesional (TSU)
-Asociación AgroConecta Productores Unidos
-
----
-
 ## 📄 Licencia
 
-Este proyecto fue desarrollado con fines académicos como parte de una estancia profesional. Todos los derechos reservados.
+Este proyecto fue desarrollado con fines académicos como parte de una estancia profesional.
 
 ---
 
